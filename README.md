@@ -30,12 +30,12 @@ Use the [newsapi](https://newsapi.org/) to pull the latest news articles for Bit
 
 Use descriptive statistics to answer the following questions:
 
-> Which coin had the highest mean positive score?
-> Ethereum has the higher mean positive score (0.057) compared to Bitcoin (0.050).
-> Which coin had the highest negative score?
-> Based on the descriptive statistics, Ethereum has the highest compound score at 0.87 vs. the maximum compound score of 0.76 from Bitcoin.
-> Which coin had the highest positive score?
-> Ethereum has the highest positive score at 0.31 maximum  compared to 0.17 maximum received by Bitcoin.
+#### Which coin had the highest mean positive score?
+#### Ethereum has the higher mean positive score (0.057) compared to Bitcoin (0.050).
+#### Which coin had the highest negative score?
+#### Based on the descriptive statistics, Ethereum has the highest compound score at 0.87 vs. the maximum compound score of 0.76 from Bitcoin.
+#### Which coin had the highest positive score?
+#### Ethereum has the highest positive score at 0.31 maximum  compared to 0.17 maximum received by Bitcoin.
 
 #### Natural Language Processing
 
